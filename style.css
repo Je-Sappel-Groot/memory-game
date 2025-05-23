@@ -1,7 +1,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    background-color: #5CDBAA;
+    background-color: #61514E;
     margin: 0;
     padding: 20px
 }
@@ -23,7 +23,7 @@ h1 {
 
 .carte {
     height: 100px;
-    background-color: #61514E;
+    background-color: #DB8270;
     border-radius: 5px;
     cursor: pointer;
     display: flex;
@@ -38,9 +38,9 @@ h1 {
 }
 
 .carte.retournee {
-    background-color: #DB8270;
+    background-color: #5CDBAA;
     font-size:  40px;
-    color: #5CDBAA;
+    color: #f0f0f0;
 }
 
 .hidden {
