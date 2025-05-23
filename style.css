@@ -23,7 +23,7 @@ h1 {
 
 .carte {
     height: 100px;
-    background-color: #2c3e50;
+    background-color: #61514E;
     border-radius: 5px;
     cursor: pointer;
     display: flex;
@@ -38,9 +38,9 @@ h1 {
 }
 
 .carte.retournee {
-    background-color: pink;
+    background-color: #DB8270;
     font-size:  40px;
-    color: blue;
+    color: #5CDBAA;
 }
 
 .hidden {
