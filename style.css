@@ -38,9 +38,9 @@ h1 {
 }
 
 .carte.retournee {
-    background-color: aqua;
+    background-color: pink;
     font-size:  40px;
-    color: black;
+    color: blue;
 }
 
 .hidden {
